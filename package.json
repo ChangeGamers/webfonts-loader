@@ -23,7 +23,7 @@
     "glob": "^7.1.1",
     "hash-files": "^1.1.1",
     "loader-utils": "^1.0.2",
-    "webfonts-generator": "^0.4.0"
+    "webfonts-generator": "github:ChangeGamers/webfonts-generator"
   },
   "devDependencies": {
     "css-loader": "^0.28.0",
